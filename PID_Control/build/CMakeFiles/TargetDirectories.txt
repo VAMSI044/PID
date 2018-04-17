@@ -1,0 +1,3 @@
+/home/vamsi/Desktop/projects/projects_term-2/PID_Control/build/CMakeFiles/edit_cache.dir
+/home/vamsi/Desktop/projects/projects_term-2/PID_Control/build/CMakeFiles/rebuild_cache.dir
+/home/vamsi/Desktop/projects/projects_term-2/PID_Control/build/CMakeFiles/pid.dir
